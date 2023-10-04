@@ -1,0 +1,73 @@
+.sec {
+    background-image: url(bg1.jpeg);
+    width: 900px;
+    height: 100%;
+    margin-left: 300px;
+    border: 1px solid black;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.lesson {
+    border: none;
+    padding-top: 20px;
+    width: 800px;
+    height: 50px;
+    background-color: cadetblue;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 20px;
+    color: black;
+
+}
+
+.img {
+    width: 500px;
+    height: 500px;
+    padding-top: 30px;
+    padding-left: 200px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+.img1 {
+    width: 300px;
+    height: 400px;
+    padding-left: 300px;
+}
+
+.btn {
+    width: 190px;
+    height: 50px;
+    background-color: rgb(207, 183, 42);
+    border: 2px solid white;
+    border-radius: 30px;
+}
+
+.follow {
+
+    padding: 40px 350px;
+
+}
+
+b {
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+}
